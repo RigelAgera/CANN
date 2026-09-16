@@ -1,0 +1,12 @@
+{
+  "shape": [
+    1,
+    8192,
+    1,
+    32
+  ],
+  "dtype": "float16",
+  "ta": true,
+  "tb": true,
+  "kind": "random"
+}

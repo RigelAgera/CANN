@@ -1,0 +1,12 @@
+{
+  "shape": [
+    1,
+    16,
+    128,
+    64
+  ],
+  "dtype": "float16",
+  "ta": true,
+  "tb": false,
+  "kind": "zero"
+}

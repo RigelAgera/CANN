@@ -1,0 +1,12 @@
+{
+  "shape": [
+    3,
+    3,
+    7,
+    32
+  ],
+  "dtype": "bfloat16",
+  "ta": true,
+  "tb": true,
+  "kind": "negative"
+}
