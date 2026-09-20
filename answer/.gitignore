@@ -1,0 +1,6 @@
+__pycache__/
+build/
+build-tests/
+test_data/
+input/
+output/
